@@ -4,7 +4,10 @@
 
 EAMENA Quick Pin is an [Arches](https://www.archesproject.org/) plugin developed for the
 [Endangered Archaeology in the Middle East and North Africa (EAMENA)](https://database.eamena.org)
-database at the University of Oxford. database.eamena.org
+database at the University of Oxford. 
+
+EAMENA database URL: database.eamena.org
+EAMENA Project website: eamena.org
 
 In the standard Arches workflow, recording is form-first: a site is located in external
 software such as Google Earth, its coordinates are converted to GeoJSON, and the geometry
