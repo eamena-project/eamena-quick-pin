@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+title: "EAMENA Quick Pin"
+message: "If you use this software, please cite it as below."
+type: software
+authors:
+  - family-names: Ebrahimipour
+    given-names: Salahaddin
+    alias: "Salah Ebrahimipour"
+    affiliation: "School of Archaeology, University of Oxford"
+    orcid: "https://orcid.org/0000-0003-0325-2249"
+abstract: >-
+  An Arches plugin for location-first recording of heritage places in the
+  EAMENA database: users find a site on the map, place a point or draw a
+  polygon, save it as a new Heritage Place, and then add the remaining data.
+version: 1.0.0
+license: GPL-3.0
+repository-code: "https://github.com/eamena-project/eamena-quick-pin"
+keywords:
+  - Arches
+  - heritage inventory
+  - EAMENA
+  - data entry
+  - endangered archaeology
