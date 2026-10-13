@@ -3,8 +3,8 @@
 **Location-first data entry for Arches heritage databases.**
 
 EAMENA Quick Pin is an [Arches](https://www.archesproject.org/) plugin developed for the
-[Endangered Archaeology in the Middle East and North Africa (EAMENA)](https://eamena.org)
-database at the University of Oxford.
+[Endangered Archaeology in the Middle East and North Africa (EAMENA)](https://database.eamena.org)
+database at the University of Oxford. database.eamena.org
 
 In the standard Arches workflow, recording is form-first: a site is located in external
 software such as Google Earth, its coordinates are converted to GeoJSON, and the geometry
